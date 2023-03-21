@@ -1,0 +1,18 @@
+{
+    "name": "FPLibrary.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7be5025c12bc84058837ce4699949cb2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
