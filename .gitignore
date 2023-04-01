@@ -62,3 +62,10 @@ crashlytics-build.properties
 # remove plugins
 Assets/Plugins
 Assets/Plugins.meta
+
+# Assets/Plugins
+Assets/Plugins
+
+# _Build
+_Build
+
